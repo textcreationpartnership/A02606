@@ -35,11 +35,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A true discourse of the present estate of Virginia and the successe of the affaires there till the 1
+
 #####Body#####
-A true discourse of the present estate of Virginia and the successe of the affaires there till the 1
+
+1. TO THE TRVLY Honorable, and right worthy Knight, Sr. Thomas Smith, Gouernour of the East India, Muscou•a, North-west passages, Somer Islands Companies, and Treasurer f•r the first Colony in VIRGINIA.
+
+1. To the Reader.
+
+1. A TRVE DISCOVRSE of the present estate of Virginia, and the successe of the affaires there till the 18 of Iune. 1614.
+
+1. To the Reader.
+To the R. and my most esteemed friend Mr.D.M. at his house at F. Ch. in London.RIght Reuerend Sr. by
 #####Back#####
-A true discourse of the present estate of Virginia and the successe of the affaires there till the 1
+
+1. Errata.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
